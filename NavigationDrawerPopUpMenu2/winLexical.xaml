@@ -1,0 +1,147 @@
+﻿<UserControl x:Class="NavigationDrawerPopUpMenu2.winLexical"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:NavigationDrawerPopUpMenu2"
+             mc:Ignorable="d" Height="535.6" Width="990">
+    <Grid Background="LightGray" Margin="2.3,6.2,-109.21,-205" >
+        <TabPanel HorizontalAlignment="Left" Height="668" Margin="10,10,0,0" VerticalAlignment="Top" Width="1037">
+            <TabControl x:Name="txtb_error" HorizontalAlignment="Left" Height="697" VerticalAlignment="Top" Width="1085" Margin="0,3,-48.2,-32.8">
+                <TabItem Header="CargarAlfabeto" FontFamily="Lato Black" FontSize="18" Margin="4,-2,-8,0">
+                    <TabItem.Background>
+                        <LinearGradientBrush EndPoint="0,1" StartPoint="0,0">
+                            <GradientStop Color="#FFF0F0F0" Offset="0"/>
+                            <GradientStop Color="#FF83880C" Offset="1"/>
+                        </LinearGradientBrush>
+                    </TabItem.Background>
+                    <Grid Background="#FFE5E5E5" Margin="6,0,-1.8,-2.6" ContextMenuClosing="Grid_ContextMenuClosing">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="79*"/>
+                            <ColumnDefinition Width="20*"/>
+                            <ColumnDefinition Width="127*"/>
+                            <ColumnDefinition Width="34*"/>
+                            <ColumnDefinition Width="18*"/>
+                            <ColumnDefinition Width="50*"/>
+                            <ColumnDefinition Width="34*"/>
+                            <ColumnDefinition Width="30*"/>
+                            <ColumnDefinition Width="127*"/>
+                            <ColumnDefinition Width="556*"/>
+                        </Grid.ColumnDefinitions>
+
+                        <Button Content="Cargar" HorizontalAlignment="Right" Margin="0,31,105.4,0"  VerticalAlignment="Top" Width="89" Height="33" Background="#FF3AC52B" Click="BtnCargarAlfabeto" Grid.ColumnSpan="3"/>
+
+                        <DataGrid Name="tblAlfabeto" HorizontalAlignment="Left" Height="412" Margin="46.8,31,0,0" VerticalAlignment="Top" Width="761" Grid.ColumnSpan="8" Grid.Column="2"/>
+
+                    </Grid>
+
+                </TabItem>
+                <TabItem Header="Tabla Compacta" FontFamily="Lato Black" FontSize="18" Margin="11.5,-2,-15.5,0">
+                    <TabItem.Background>
+                        <LinearGradientBrush EndPoint="0,1" StartPoint="0,0">
+                            <GradientStop Color="#FFF0F0F0" Offset="0"/>
+                            <GradientStop Color="#FF83880C" Offset="1"/>
+                        </LinearGradientBrush>
+                    </TabItem.Background>
+
+
+                    <Grid Background="#FFE5E5E5" Margin="0,0,28.2,30">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="12*"/>
+                            <ColumnDefinition Width="17*"/>
+                            <ColumnDefinition Width="11*"/>
+                            <ColumnDefinition Width="42*"/>
+                            <ColumnDefinition Width="111*"/>
+                            <ColumnDefinition Width="178*"/>
+                            <ColumnDefinition Width="680*"/>
+                        </Grid.ColumnDefinitions>
+                        <DockPanel HorizontalAlignment="Left" Height="509" LastChildFill="False" Margin="32,87,0,0" VerticalAlignment="Top" Width="897" Grid.Column="3" Grid.ColumnSpan="4"/>
+                        <Label x:Name="lblValor" Content="Valor" HorizontalAlignment="Left" Margin="86.992,20,0,0" VerticalAlignment="Top" Grid.Column="4" Grid.ColumnSpan="2"/>
+                        <RichTextBox x:Name="rtbValor" Height="434" Width="359" Margin="68.992,57,541.608,0" HorizontalAlignment="Center" VerticalAlignment="Top" Grid.Column="4" Grid.ColumnSpan="3" >
+                            <FlowDocument>
+                                <Paragraph/>
+                            </FlowDocument>
+                        </RichTextBox>
+                        <Label x:Name="lblPrifil" Content="Prifil&#xA;" HorizontalAlignment="Left" Margin="338.392,20,0,0" VerticalAlignment="Top" Grid.Column="6" Height="30"/>
+                        <RichTextBox x:Name="rtbPrifil" Height="434" Width="359" Margin="222.392,57,98.608,0" HorizontalAlignment="Center" VerticalAlignment="Top" Grid.Column="6" >
+                            <FlowDocument>
+                                <Paragraph/>
+                            </FlowDocument>
+                        </RichTextBox>
+                        <Button x:Name="button" Content="Ver" HorizontalAlignment="Left" Height="32" Margin="10.2,57,0,0" VerticalAlignment="Top" Width="72" FontWeight="Bold" Click="btnRead_click" Grid.ColumnSpan="3" Grid.Column="2"/>
+
+
+
+
+                    </Grid>
+                </TabItem>
+                <TabItem Header="Movimientos" FontFamily="Lato Black" FontSize="18" Margin="19,-2,-23,0">
+                    <TabItem.Background>
+                        <LinearGradientBrush EndPoint="0,1" StartPoint="0,0">
+                            <GradientStop Color="#FFF0F0F0" Offset="0"/>
+                            <GradientStop Color="#FF83880C" Offset="1"/>
+                        </LinearGradientBrush>
+                    </TabItem.Background>
+                    <Grid Margin="0,0,979.2,558.4">
+                        <Button x:Name="btnCargarPalabra" Content="Cargar texto" Height="Auto" Margin="24,61,-47,9.6" Click="BtnCargarPalabra_Click" HorizontalAlignment="Left" Width="123"/>
+                        <TextBox x:Name="txtb_texto" TextWrapping="Wrap" Margin="166,19,-695,-23.4" TextChanged="Txtb_texto_TextChanged" FontSize="16"/>
+                        <Button x:Name="btn_reconocerTodo" Content="Reconocer" Height="Auto" Margin="831,65,-844,1.6" Click="Btn_reconocerTodo_Click"/>
+                        <TextBox x:Name="txtb_listareco" TextWrapping="Wrap" Margin="161,166,-590,-286.4"/>
+                        <TextBox x:Name="txtb_palabraactual" TextWrapping="Wrap" Margin="156,134,-182,-81" Visibility="Hidden"/>
+                        <TextBox x:Name="txtb_transiciona" TextWrapping="Wrap" Margin="166,292,-186,-248" Visibility="Hidden"/>
+                        <Button x:Name="btn_SiguientePos" Content="Siguiente pos" Height="Auto" Margin="24,260,-20,-225" Click="Btn_SiguientePos_Click" Visibility="Hidden"/>
+                        <TextBox x:Name="txtb_Error" TextWrapping="Wrap" Margin="156,416,-695,-345.4" TextChanged="Txtb_texto_TextChanged" FontSize="16"/>
+
+                    </Grid>
+
+                </TabItem>
+                <TabItem Header="Tokens Reconocidos" FontFamily="Lato Black" FontSize="18" Margin="28,-2,-32,0">
+
+                    <TabItem.Background>
+                        <LinearGradientBrush EndPoint="0,1" StartPoint="0,0">
+                            <GradientStop Color="#FFF0F0F0" Offset="0"/>
+                            <GradientStop Color="#FF83880C" Offset="1"/>
+                        </LinearGradientBrush>
+                    </TabItem.Background>
+                    <Grid Background="#FFE5E5E5">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="405*"/>
+                            <ColumnDefinition Width="30*"/>
+                            <ColumnDefinition Width="257*"/>
+                            <ColumnDefinition Width="388*"/>
+                        </Grid.ColumnDefinitions>
+                        <Button x:Name="btn_mostrarreco" Content="Mostrar" HorizontalAlignment="Left" Margin="119,81,0,0" VerticalAlignment="Top" Width="89" Click="Btn_mostrarreco_Click"/>
+                        <DataGrid x:Name="tbl_reconocidos" HorizontalAlignment="Left" Height="370" Margin="274,47,0,0" VerticalAlignment="Top" Width="510" Grid.ColumnSpan="4"/>
+                    </Grid>
+                </TabItem>
+                <TabItem Header="TDS" FontFamily="Lato Black" FontSize="18" Margin="41.5,-2,-45.5,0">
+                    <TabItem.Background>
+                        <LinearGradientBrush EndPoint="0,1" StartPoint="0,0">
+                            <GradientStop Color="#FFF0F0F0" Offset="0"/>
+                            <GradientStop Color="#FF83880C" Offset="1"/>
+                        </LinearGradientBrush>
+                    </TabItem.Background>
+
+                    <Grid Background="#FFE5E5E5">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="563*"/>
+                            <ColumnDefinition Width="32*"/>
+                            <ColumnDefinition Width="484*"/>
+                        </Grid.ColumnDefinitions>
+                        <Button x:Name="btn_mostrarTDS" Content="Mostrar" HorizontalAlignment="Left" Margin="67,50,0,0" VerticalAlignment="Top" Width="94" Click="Btn_mostrarTDS_Click"/>
+                        <TextBox x:Name="txtb_TDS" HorizontalAlignment="Left" Height="222" Margin="67,284,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="435"/>
+                        <DataGrid x:Name="tbl_TDS" Grid.ColumnSpan="3" HorizontalAlignment="Left" Height="300" Margin="210,50,0,0" VerticalAlignment="Top" Width="524"/>
+                    </Grid>
+                </TabItem>
+
+
+            </TabControl>
+        </TabPanel>
+        <!--<DataGrid Name="tblAlfabeto" HorizontalAlignment="Left" Height="412" Margin="10,107.8,0,0" VerticalAlignment="Top" Width="862.3"/>-->
+
+
+
+
+
+    </Grid>
+</UserControl>

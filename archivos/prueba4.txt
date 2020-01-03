@@ -1,0 +1,16 @@
+declare 
+integer #numero ;
+integer #resultado 
+integer #i ;
+main { 
+if ( #i : 1 )
+{ print ( #i + ( ) ; }
+ } 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

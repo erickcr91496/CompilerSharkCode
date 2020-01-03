@@ -1,0 +1,114 @@
+E:\UTN\VII SEMESTRE\COMPILADORES\TEMPLATES WPF\ProyectoACSv3\NavigationDrawerPopUpMenu2\bin\Debug\NavigationDrawerPopUpMenu2.exe.config
+E:\UTN\VII SEMESTRE\COMPILADORES\TEMPLATES WPF\ProyectoACSv3\NavigationDrawerPopUpMenu2\bin\Debug\NavigationDrawerPopUpMenu2.exe
+E:\UTN\VII SEMESTRE\COMPILADORES\TEMPLATES WPF\ProyectoACSv3\NavigationDrawerPopUpMenu2\bin\Debug\NavigationDrawerPopUpMenu2.pdb
+E:\UTN\VII SEMESTRE\COMPILADORES\TEMPLATES WPF\ProyectoACSv3\NavigationDrawerPopUpMenu2\bin\Debug\MaterialDesignColors.dll
+E:\UTN\VII SEMESTRE\COMPILADORES\TEMPLATES WPF\ProyectoACSv3\NavigationDrawerPopUpMenu2\bin\Debug\MaterialDesignThemes.Wpf.dll
+E:\UTN\VII SEMESTRE\COMPILADORES\TEMPLATES WPF\ProyectoACSv3\NavigationDrawerPopUpMenu2\bin\Debug\MaterialDesignThemes.Wpf.pdb
+E:\UTN\VII SEMESTRE\COMPILADORES\TEMPLATES WPF\ProyectoACSv3\NavigationDrawerPopUpMenu2\bin\Debug\MaterialDesignThemes.Wpf.xml
+E:\UTN\VII SEMESTRE\COMPILADORES\TEMPLATES WPF\ProyectoACSv3\NavigationDrawerPopUpMenu2\obj\Debug\ProyectoACS.csprojAssemblyReference.cache
+E:\UTN\VII SEMESTRE\COMPILADORES\TEMPLATES WPF\ProyectoACSv3\NavigationDrawerPopUpMenu2\obj\Debug\Caratula.g.cs
+E:\UTN\VII SEMESTRE\COMPILADORES\TEMPLATES WPF\ProyectoACSv3\NavigationDrawerPopUpMenu2\obj\Debug\Menu.g.cs
+E:\UTN\VII SEMESTRE\COMPILADORES\TEMPLATES WPF\ProyectoACSv3\NavigationDrawerPopUpMenu2\obj\Debug\winLexical.g.cs
+E:\UTN\VII SEMESTRE\COMPILADORES\TEMPLATES WPF\ProyectoACSv3\NavigationDrawerPopUpMenu2\obj\Debug\UserControlHome.g.cs
+E:\UTN\VII SEMESTRE\COMPILADORES\TEMPLATES WPF\ProyectoACSv3\NavigationDrawerPopUpMenu2\obj\Debug\App.g.cs
+E:\UTN\VII SEMESTRE\COMPILADORES\TEMPLATES WPF\ProyectoACSv3\NavigationDrawerPopUpMenu2\obj\Debug\NavigationDrawerPopUpMenu2_MarkupCompile.cache
+E:\UTN\VII SEMESTRE\COMPILADORES\TEMPLATES WPF\ProyectoACSv3\NavigationDrawerPopUpMenu2\obj\Debug\NavigationDrawerPopUpMenu2_MarkupCompile.lref
+E:\UTN\VII SEMESTRE\COMPILADORES\TEMPLATES WPF\ProyectoACSv3\NavigationDrawerPopUpMenu2\obj\Debug\App.baml
+E:\UTN\VII SEMESTRE\COMPILADORES\TEMPLATES WPF\ProyectoACSv3\NavigationDrawerPopUpMenu2\obj\Debug\Caratula.baml
+E:\UTN\VII SEMESTRE\COMPILADORES\TEMPLATES WPF\ProyectoACSv3\NavigationDrawerPopUpMenu2\obj\Debug\Menu.baml
+E:\UTN\VII SEMESTRE\COMPILADORES\TEMPLATES WPF\ProyectoACSv3\NavigationDrawerPopUpMenu2\obj\Debug\winLexical.baml
+E:\UTN\VII SEMESTRE\COMPILADORES\TEMPLATES WPF\ProyectoACSv3\NavigationDrawerPopUpMenu2\obj\Debug\UserControlHome.baml
+E:\UTN\VII SEMESTRE\COMPILADORES\TEMPLATES WPF\ProyectoACSv3\NavigationDrawerPopUpMenu2\obj\Debug\NavigationDrawerPopUpMenu2.g.resources
+E:\UTN\VII SEMESTRE\COMPILADORES\TEMPLATES WPF\ProyectoACSv3\NavigationDrawerPopUpMenu2\obj\Debug\NavigationDrawerPopUpMenu2.FrmTransicion.resources
+E:\UTN\VII SEMESTRE\COMPILADORES\TEMPLATES WPF\ProyectoACSv3\NavigationDrawerPopUpMenu2\obj\Debug\NavigationDrawerPopUpMenu2.Properties.Resources.resources
+E:\UTN\VII SEMESTRE\COMPILADORES\TEMPLATES WPF\ProyectoACSv3\NavigationDrawerPopUpMenu2\obj\Debug\ProyectoACS.csproj.GenerateResource.cache
+E:\UTN\VII SEMESTRE\COMPILADORES\TEMPLATES WPF\ProyectoACSv3\NavigationDrawerPopUpMenu2\obj\Debug\ProyectoACS.csproj.CopyComplete
+E:\UTN\VII SEMESTRE\COMPILADORES\TEMPLATES WPF\ProyectoACSv3\NavigationDrawerPopUpMenu2\obj\Debug\NavigationDrawerPopUpMenu2.exe
+E:\UTN\VII SEMESTRE\COMPILADORES\TEMPLATES WPF\ProyectoACSv3\NavigationDrawerPopUpMenu2\obj\Debug\NavigationDrawerPopUpMenu2.pdb
+J:\PROYECTO COMPILADORES\ProyectoACSv3\NavigationDrawerPopUpMenu2\bin\Debug\NavigationDrawerPopUpMenu2.exe.config
+J:\PROYECTO COMPILADORES\ProyectoACSv3\NavigationDrawerPopUpMenu2\bin\Debug\NavigationDrawerPopUpMenu2.exe
+J:\PROYECTO COMPILADORES\ProyectoACSv3\NavigationDrawerPopUpMenu2\bin\Debug\NavigationDrawerPopUpMenu2.pdb
+J:\PROYECTO COMPILADORES\ProyectoACSv3\NavigationDrawerPopUpMenu2\bin\Debug\MaterialDesignColors.dll
+J:\PROYECTO COMPILADORES\ProyectoACSv3\NavigationDrawerPopUpMenu2\bin\Debug\MaterialDesignThemes.Wpf.dll
+J:\PROYECTO COMPILADORES\ProyectoACSv3\NavigationDrawerPopUpMenu2\bin\Debug\MaterialDesignThemes.Wpf.pdb
+J:\PROYECTO COMPILADORES\ProyectoACSv3\NavigationDrawerPopUpMenu2\bin\Debug\MaterialDesignThemes.Wpf.xml
+J:\PROYECTO COMPILADORES\ProyectoACSv3\NavigationDrawerPopUpMenu2\obj\Debug\ProyectoACS.csprojAssemblyReference.cache
+J:\PROYECTO COMPILADORES\ProyectoACSv3\NavigationDrawerPopUpMenu2\obj\Debug\Caratula.g.cs
+J:\PROYECTO COMPILADORES\ProyectoACSv3\NavigationDrawerPopUpMenu2\obj\Debug\Menu.g.cs
+J:\PROYECTO COMPILADORES\ProyectoACSv3\NavigationDrawerPopUpMenu2\obj\Debug\winLexical.g.cs
+J:\PROYECTO COMPILADORES\ProyectoACSv3\NavigationDrawerPopUpMenu2\obj\Debug\UserControlHome.g.cs
+J:\PROYECTO COMPILADORES\ProyectoACSv3\NavigationDrawerPopUpMenu2\obj\Debug\App.g.cs
+J:\PROYECTO COMPILADORES\ProyectoACSv3\NavigationDrawerPopUpMenu2\obj\Debug\NavigationDrawerPopUpMenu2_MarkupCompile.cache
+J:\PROYECTO COMPILADORES\ProyectoACSv3\NavigationDrawerPopUpMenu2\obj\Debug\NavigationDrawerPopUpMenu2_MarkupCompile.lref
+J:\PROYECTO COMPILADORES\ProyectoACSv3\NavigationDrawerPopUpMenu2\obj\Debug\App.baml
+J:\PROYECTO COMPILADORES\ProyectoACSv3\NavigationDrawerPopUpMenu2\obj\Debug\Caratula.baml
+J:\PROYECTO COMPILADORES\ProyectoACSv3\NavigationDrawerPopUpMenu2\obj\Debug\Menu.baml
+J:\PROYECTO COMPILADORES\ProyectoACSv3\NavigationDrawerPopUpMenu2\obj\Debug\winLexical.baml
+J:\PROYECTO COMPILADORES\ProyectoACSv3\NavigationDrawerPopUpMenu2\obj\Debug\UserControlHome.baml
+J:\PROYECTO COMPILADORES\ProyectoACSv3\NavigationDrawerPopUpMenu2\obj\Debug\NavigationDrawerPopUpMenu2.g.resources
+J:\PROYECTO COMPILADORES\ProyectoACSv3\NavigationDrawerPopUpMenu2\obj\Debug\NavigationDrawerPopUpMenu2.FrmTransicion.resources
+J:\PROYECTO COMPILADORES\ProyectoACSv3\NavigationDrawerPopUpMenu2\obj\Debug\NavigationDrawerPopUpMenu2.Properties.Resources.resources
+J:\PROYECTO COMPILADORES\ProyectoACSv3\NavigationDrawerPopUpMenu2\obj\Debug\ProyectoACS.csproj.GenerateResource.cache
+J:\PROYECTO COMPILADORES\ProyectoACSv3\NavigationDrawerPopUpMenu2\obj\Debug\ProyectoACS.csproj.CoreCompileInputs.cache
+J:\PROYECTO COMPILADORES\ProyectoACSv3\NavigationDrawerPopUpMenu2\obj\Debug\ProyectoACS.csproj.CopyComplete
+J:\PROYECTO COMPILADORES\ProyectoACSv3\NavigationDrawerPopUpMenu2\obj\Debug\NavigationDrawerPopUpMenu2.exe
+J:\PROYECTO COMPILADORES\ProyectoACSv3\NavigationDrawerPopUpMenu2\obj\Debug\NavigationDrawerPopUpMenu2.pdb
+C:\Users\Samantha1\Desktop\PROYECTO COMPILADORES\ProyectoACSv3\NavigationDrawerPopUpMenu2\bin\Debug\NavigationDrawerPopUpMenu2.exe.config
+C:\Users\Samantha1\Desktop\PROYECTO COMPILADORES\ProyectoACSv3\NavigationDrawerPopUpMenu2\bin\Debug\NavigationDrawerPopUpMenu2.exe
+C:\Users\Samantha1\Desktop\PROYECTO COMPILADORES\ProyectoACSv3\NavigationDrawerPopUpMenu2\bin\Debug\NavigationDrawerPopUpMenu2.pdb
+C:\Users\Samantha1\Desktop\PROYECTO COMPILADORES\ProyectoACSv3\NavigationDrawerPopUpMenu2\bin\Debug\MaterialDesignColors.dll
+C:\Users\Samantha1\Desktop\PROYECTO COMPILADORES\ProyectoACSv3\NavigationDrawerPopUpMenu2\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Samantha1\Desktop\PROYECTO COMPILADORES\ProyectoACSv3\NavigationDrawerPopUpMenu2\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Samantha1\Desktop\PROYECTO COMPILADORES\ProyectoACSv3\NavigationDrawerPopUpMenu2\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Samantha1\Desktop\PROYECTO COMPILADORES\ProyectoACSv3\NavigationDrawerPopUpMenu2\obj\Debug\ProyectoACS.csprojAssemblyReference.cache
+C:\Users\Samantha1\Desktop\PROYECTO COMPILADORES\ProyectoACSv3\NavigationDrawerPopUpMenu2\obj\Debug\Caratula.g.cs
+C:\Users\Samantha1\Desktop\PROYECTO COMPILADORES\ProyectoACSv3\NavigationDrawerPopUpMenu2\obj\Debug\Menu.g.cs
+C:\Users\Samantha1\Desktop\PROYECTO COMPILADORES\ProyectoACSv3\NavigationDrawerPopUpMenu2\obj\Debug\winLexical.g.cs
+C:\Users\Samantha1\Desktop\PROYECTO COMPILADORES\ProyectoACSv3\NavigationDrawerPopUpMenu2\obj\Debug\UserControlHome.g.cs
+C:\Users\Samantha1\Desktop\PROYECTO COMPILADORES\ProyectoACSv3\NavigationDrawerPopUpMenu2\obj\Debug\App.g.cs
+C:\Users\Samantha1\Desktop\PROYECTO COMPILADORES\ProyectoACSv3\NavigationDrawerPopUpMenu2\obj\Debug\NavigationDrawerPopUpMenu2_MarkupCompile.cache
+C:\Users\Samantha1\Desktop\PROYECTO COMPILADORES\ProyectoACSv3\NavigationDrawerPopUpMenu2\obj\Debug\NavigationDrawerPopUpMenu2_MarkupCompile.lref
+C:\Users\Samantha1\Desktop\PROYECTO COMPILADORES\ProyectoACSv3\NavigationDrawerPopUpMenu2\obj\Debug\App.baml
+C:\Users\Samantha1\Desktop\PROYECTO COMPILADORES\ProyectoACSv3\NavigationDrawerPopUpMenu2\obj\Debug\Caratula.baml
+C:\Users\Samantha1\Desktop\PROYECTO COMPILADORES\ProyectoACSv3\NavigationDrawerPopUpMenu2\obj\Debug\Menu.baml
+C:\Users\Samantha1\Desktop\PROYECTO COMPILADORES\ProyectoACSv3\NavigationDrawerPopUpMenu2\obj\Debug\winLexical.baml
+C:\Users\Samantha1\Desktop\PROYECTO COMPILADORES\ProyectoACSv3\NavigationDrawerPopUpMenu2\obj\Debug\UserControlHome.baml
+C:\Users\Samantha1\Desktop\PROYECTO COMPILADORES\ProyectoACSv3\NavigationDrawerPopUpMenu2\obj\Debug\NavigationDrawerPopUpMenu2.g.resources
+C:\Users\Samantha1\Desktop\PROYECTO COMPILADORES\ProyectoACSv3\NavigationDrawerPopUpMenu2\obj\Debug\NavigationDrawerPopUpMenu2.FrmTransicion.resources
+C:\Users\Samantha1\Desktop\PROYECTO COMPILADORES\ProyectoACSv3\NavigationDrawerPopUpMenu2\obj\Debug\NavigationDrawerPopUpMenu2.Properties.Resources.resources
+C:\Users\Samantha1\Desktop\PROYECTO COMPILADORES\ProyectoACSv3\NavigationDrawerPopUpMenu2\obj\Debug\ProyectoACS.csproj.GenerateResource.cache
+C:\Users\Samantha1\Desktop\PROYECTO COMPILADORES\ProyectoACSv3\NavigationDrawerPopUpMenu2\obj\Debug\ProyectoACS.csproj.CoreCompileInputs.cache
+C:\Users\Samantha1\Desktop\PROYECTO COMPILADORES\ProyectoACSv3\NavigationDrawerPopUpMenu2\obj\Debug\ProyectoACS.csproj.CopyComplete
+C:\Users\Samantha1\Desktop\PROYECTO COMPILADORES\ProyectoACSv3\NavigationDrawerPopUpMenu2\obj\Debug\NavigationDrawerPopUpMenu2.exe
+C:\Users\Samantha1\Desktop\PROYECTO COMPILADORES\ProyectoACSv3\NavigationDrawerPopUpMenu2\obj\Debug\NavigationDrawerPopUpMenu2.pdb
+C:\Users\Samantha1\Desktop\PROYECTO COMPILADORES\ProyectoACSv3\NavigationDrawerPopUpMenu2\obj\Debug\winSintactico.g.cs
+C:\Users\Samantha1\Desktop\PROYECTO COMPILADORES\ProyectoACSv3\NavigationDrawerPopUpMenu2\obj\Debug\winSintactico.baml
+E:\UTN\VII SEMESTRE\COMPILADORES\PJT_ANALIZADOR SINTACTICO\v4\ProyectoACSv3\NavigationDrawerPopUpMenu2\bin\Debug\NavigationDrawerPopUpMenu2.exe.config
+E:\UTN\VII SEMESTRE\COMPILADORES\PJT_ANALIZADOR SINTACTICO\v4\ProyectoACSv3\NavigationDrawerPopUpMenu2\bin\Debug\NavigationDrawerPopUpMenu2.exe
+E:\UTN\VII SEMESTRE\COMPILADORES\PJT_ANALIZADOR SINTACTICO\v4\ProyectoACSv3\NavigationDrawerPopUpMenu2\bin\Debug\NavigationDrawerPopUpMenu2.pdb
+E:\UTN\VII SEMESTRE\COMPILADORES\PJT_ANALIZADOR SINTACTICO\v4\ProyectoACSv3\NavigationDrawerPopUpMenu2\bin\Debug\MaterialDesignColors.dll
+E:\UTN\VII SEMESTRE\COMPILADORES\PJT_ANALIZADOR SINTACTICO\v4\ProyectoACSv3\NavigationDrawerPopUpMenu2\bin\Debug\MaterialDesignThemes.Wpf.dll
+E:\UTN\VII SEMESTRE\COMPILADORES\PJT_ANALIZADOR SINTACTICO\v4\ProyectoACSv3\NavigationDrawerPopUpMenu2\bin\Debug\MaterialDesignThemes.Wpf.pdb
+E:\UTN\VII SEMESTRE\COMPILADORES\PJT_ANALIZADOR SINTACTICO\v4\ProyectoACSv3\NavigationDrawerPopUpMenu2\bin\Debug\MaterialDesignThemes.Wpf.xml
+E:\UTN\VII SEMESTRE\COMPILADORES\PJT_ANALIZADOR SINTACTICO\v4\ProyectoACSv3\NavigationDrawerPopUpMenu2\obj\Debug\ProyectoACS.csprojAssemblyReference.cache
+E:\UTN\VII SEMESTRE\COMPILADORES\PJT_ANALIZADOR SINTACTICO\v4\ProyectoACSv3\NavigationDrawerPopUpMenu2\obj\Debug\Caratula.g.cs
+E:\UTN\VII SEMESTRE\COMPILADORES\PJT_ANALIZADOR SINTACTICO\v4\ProyectoACSv3\NavigationDrawerPopUpMenu2\obj\Debug\Menu.g.cs
+E:\UTN\VII SEMESTRE\COMPILADORES\PJT_ANALIZADOR SINTACTICO\v4\ProyectoACSv3\NavigationDrawerPopUpMenu2\obj\Debug\winSintactico.g.cs
+E:\UTN\VII SEMESTRE\COMPILADORES\PJT_ANALIZADOR SINTACTICO\v4\ProyectoACSv3\NavigationDrawerPopUpMenu2\obj\Debug\winLexical.g.cs
+E:\UTN\VII SEMESTRE\COMPILADORES\PJT_ANALIZADOR SINTACTICO\v4\ProyectoACSv3\NavigationDrawerPopUpMenu2\obj\Debug\UserControlHome.g.cs
+E:\UTN\VII SEMESTRE\COMPILADORES\PJT_ANALIZADOR SINTACTICO\v4\ProyectoACSv3\NavigationDrawerPopUpMenu2\obj\Debug\App.g.cs
+E:\UTN\VII SEMESTRE\COMPILADORES\PJT_ANALIZADOR SINTACTICO\v4\ProyectoACSv3\NavigationDrawerPopUpMenu2\obj\Debug\NavigationDrawerPopUpMenu2_MarkupCompile.cache
+E:\UTN\VII SEMESTRE\COMPILADORES\PJT_ANALIZADOR SINTACTICO\v4\ProyectoACSv3\NavigationDrawerPopUpMenu2\obj\Debug\NavigationDrawerPopUpMenu2_MarkupCompile.lref
+E:\UTN\VII SEMESTRE\COMPILADORES\PJT_ANALIZADOR SINTACTICO\v4\ProyectoACSv3\NavigationDrawerPopUpMenu2\obj\Debug\App.baml
+E:\UTN\VII SEMESTRE\COMPILADORES\PJT_ANALIZADOR SINTACTICO\v4\ProyectoACSv3\NavigationDrawerPopUpMenu2\obj\Debug\Caratula.baml
+E:\UTN\VII SEMESTRE\COMPILADORES\PJT_ANALIZADOR SINTACTICO\v4\ProyectoACSv3\NavigationDrawerPopUpMenu2\obj\Debug\Menu.baml
+E:\UTN\VII SEMESTRE\COMPILADORES\PJT_ANALIZADOR SINTACTICO\v4\ProyectoACSv3\NavigationDrawerPopUpMenu2\obj\Debug\winSintactico.baml
+E:\UTN\VII SEMESTRE\COMPILADORES\PJT_ANALIZADOR SINTACTICO\v4\ProyectoACSv3\NavigationDrawerPopUpMenu2\obj\Debug\winLexical.baml
+E:\UTN\VII SEMESTRE\COMPILADORES\PJT_ANALIZADOR SINTACTICO\v4\ProyectoACSv3\NavigationDrawerPopUpMenu2\obj\Debug\UserControlHome.baml
+E:\UTN\VII SEMESTRE\COMPILADORES\PJT_ANALIZADOR SINTACTICO\v4\ProyectoACSv3\NavigationDrawerPopUpMenu2\obj\Debug\NavigationDrawerPopUpMenu2.g.resources
+E:\UTN\VII SEMESTRE\COMPILADORES\PJT_ANALIZADOR SINTACTICO\v4\ProyectoACSv3\NavigationDrawerPopUpMenu2\obj\Debug\NavigationDrawerPopUpMenu2.FrmTransicion.resources
+E:\UTN\VII SEMESTRE\COMPILADORES\PJT_ANALIZADOR SINTACTICO\v4\ProyectoACSv3\NavigationDrawerPopUpMenu2\obj\Debug\NavigationDrawerPopUpMenu2.Properties.Resources.resources
+E:\UTN\VII SEMESTRE\COMPILADORES\PJT_ANALIZADOR SINTACTICO\v4\ProyectoACSv3\NavigationDrawerPopUpMenu2\obj\Debug\ProyectoACS.csproj.GenerateResource.cache
+E:\UTN\VII SEMESTRE\COMPILADORES\PJT_ANALIZADOR SINTACTICO\v4\ProyectoACSv3\NavigationDrawerPopUpMenu2\obj\Debug\ProyectoACS.csproj.CopyComplete
+E:\UTN\VII SEMESTRE\COMPILADORES\PJT_ANALIZADOR SINTACTICO\v4\ProyectoACSv3\NavigationDrawerPopUpMenu2\obj\Debug\NavigationDrawerPopUpMenu2.exe
+E:\UTN\VII SEMESTRE\COMPILADORES\PJT_ANALIZADOR SINTACTICO\v4\ProyectoACSv3\NavigationDrawerPopUpMenu2\obj\Debug\NavigationDrawerPopUpMenu2.pdb
